@@ -1,0 +1,28 @@
+{
+  "name": "netshop",
+  "version": "1.0.0",
+  "description": "这是第一个上商城nodejs网上商城项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andylieonian/netshop"
+  },
+  "keywords": [
+    "node",
+    "shop",
+    "express",
+    "bower"
+  ],
+  "author": "lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andylieonian/netshop/issues"
+  },
+  "homepage": "https://github.com/andylieonian/netshop",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}

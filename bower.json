@@ -1,0 +1,31 @@
+{
+  "name": "netshop",
+  "description": "这是第一个上商城nodejs网上商城项目",
+  "main": "index.js",
+  "authors": [
+    "lee"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "shop",
+    "express",
+    "bower"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "bootstrap": "~3.3.6"
+  }
+}

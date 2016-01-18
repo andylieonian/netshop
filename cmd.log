@@ -1,0 +1,11 @@
+npm install -g bower
+bower
+bower install bootstrap
+npm init
+ls
+touch .bowerrc
+bower init
+bower install bootstrap
+bower install angular angular-route --save
+/history >> cmd.log
+doskey /history >> cmd.log
